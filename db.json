@@ -1,0 +1,122 @@
+{
+  "productList": [
+    {
+      "productName": "IPhone 12",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 9000,
+      "comment": "nice performance ",
+      "date": "2022-04-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apples ",
+      "category": "Fruits",
+      "freshness": "Fresh",
+      "price": 45,
+      "comment": "apple can take you away from Doctor ",
+      "date": "2022-04-05T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Smartphone ",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 7999,
+      "comment": "thik - thak chal rha h.\n",
+      "date": "2022-04-05T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Pen",
+      "category": "Stationary",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "smooth flow",
+      "date": "2022-04-12T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Banana ",
+      "category": "Fruits",
+      "freshness": "Very Fresh",
+      "price": 90,
+      "comment": "Pre Ordered ",
+      "date": "2022-04-15T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "One plus Nord",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 6000,
+      "comment": "very good condition ",
+      "date": "2022-04-19T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Cooler",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 4500,
+      "comment": "working condition ",
+      "date": "2022-04-20T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "AC",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 2000,
+      "comment": "buy krna h to bat kro",
+      "date": "2022-04-12T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Jeans pent",
+      "category": "Cloths",
+      "freshness": "Second Hand",
+      "price": 150,
+      "comment": "Phle istemal kre fir vishwas kre",
+      "date": "2022-04-21T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "T-shirt ",
+      "category": "Cloths",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "good quality product ",
+      "date": "2022-04-07T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Note book",
+      "category": "Stationary",
+      "freshness": "Brand New",
+      "price": 30,
+      "comment": "new product ",
+      "date": "2022-04-13T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Stapler ",
+      "category": "Stationary",
+      "freshness": "Second Hand",
+      "price": 2,
+      "comment": "tip top condition ",
+      "date": "2022-04-19T18:30:00.000Z",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
